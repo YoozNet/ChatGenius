@@ -1,6 +1,6 @@
 {
     "name": "yooznet/chatgenius",
-    "description": "A PHP library for interacting with the Telegram API",
+    "description": "A PHP library for interacting with the Telegram API.",
     "type": "library",
     "autoload": {
         "psr-4": {
@@ -17,11 +17,15 @@
             "email": "mail@Yooznet.online"
         }
     ],
-    "version": "1.0.0",
-    "homepage": "https://github.com/YoozNet/chatgenius",
-    "keywords": ["telegram", "api", "php", "library"],
-    "support": {
-        "issues": "https://github.com/YoozNet/chatgenius/issues",
-        "source": "https://github.com/YoozNet/chatgenius"
-    }
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/YoozNet/chatgenius"
+        }
+    ],
+    "require": {
+        "yooznet/chatgenius": "1.0.0"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
