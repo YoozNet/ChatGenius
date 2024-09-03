@@ -1,5 +1,5 @@
 {
-    "name": "yooznet/telegram",
+    "name": "yooznet/chatgenius",
     "description": "A PHP library for interacting with the Telegram API",
     "type": "library",
     "autoload": {
