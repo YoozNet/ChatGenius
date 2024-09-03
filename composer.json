@@ -17,15 +17,6 @@
             "email": "mail@Yooznet.online"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/YoozNet/chatgenius"
-        }
-    ],
-    "require": {
-        "yooznet/chatgenius": "1.0.0"
-    },
     "minimum-stability": "stable",
     "prefer-stable": true
 }
