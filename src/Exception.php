@@ -1,6 +1,7 @@
 <?php
 
-namespace Telegram;
+namespace ChatGenius;
+
 class Exception extends \Exception {
     protected $message;
     protected $code;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Telegram;
+namespace ChatGenius;
 
 class Reply {
     private int $message_id;

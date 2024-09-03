@@ -1,6 +1,6 @@
 <?php
 
-namespace Telegram;
+namespace ChatGenius;
 
 class Entities {
     private ?string $type;

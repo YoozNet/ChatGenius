@@ -1,6 +1,6 @@
 <?php
 
-namespace Telegram;
+namespace ChatGenius;
 
 use GuzzleHttp\Client;
 

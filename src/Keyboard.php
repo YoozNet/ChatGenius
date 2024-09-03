@@ -1,6 +1,7 @@
 <?php
 
-namespace Telegram;
+namespace ChatGenius;
+
 class Keyboard{
     private array $data = [];
     private string $type;

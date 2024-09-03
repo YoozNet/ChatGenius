@@ -1,6 +1,6 @@
 <?php
 
-namespace Telegram;
+namespace ChatGenius;
 
 class LinkPreviewOptions {
     private bool $is_disabled;

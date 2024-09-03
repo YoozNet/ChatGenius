@@ -1,5 +1,7 @@
 <?php
-namespace Telegram;
+
+namespace ChatGenius;
+
 class HandleUpdate{
     public $update;
     public $message;
