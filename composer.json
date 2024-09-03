@@ -16,5 +16,12 @@
             "name": "YoozNet",
             "email": "mail@Yooznet.online"
         }
-    ]
+    ],
+    "version": "1.0.0",
+    "homepage": "https://github.com/YoozNet/chatgenius",
+    "keywords": ["telegram", "api", "php", "library"],
+    "support": {
+        "issues": "https://github.com/YoozNet/chatgenius/issues",
+        "source": "https://github.com/YoozNet/chatgenius"
+    }
 }
